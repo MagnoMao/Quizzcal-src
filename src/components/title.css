@@ -46,6 +46,8 @@
 
 .form-quizz-options>select, .form-quizz-options>input{
     /* min-width: 200px; */
+    width: 100%;
+    max-width: 300px;
     border-radius: 5px;
     border: 1px solid #293264;
     padding: 5px;
