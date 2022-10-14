@@ -1,0 +1,28 @@
+.question{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: aliceblue;
+    /* margin: 20px 0; */
+}
+
+.quizz{
+    /* padding: 40px 0 100px 0; */
+    padding-bottom: 100px;
+}
+
+.quizz-submit{
+    margin: auto;
+}
+
+.quizz-warning{
+    margin: 50px 0;
+    text-align: center;
+    color: red;
+}
+
+.quizz-result{
+    margin: 50px 0;
+    text-align: center;
+    color: #293264;
+}

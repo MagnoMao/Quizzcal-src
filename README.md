@@ -1,5 +1,5 @@
 Hello.  
-These are the source files of a quizz app that I created to practice and showcase my react skills.  
+This is the source files of a quizz app that I created to practice and showcase my react skills.  
 It's a readable version before the files are digested by the react-app to create the production build.  
 This quizz app gets the data from the [Open Trivia Database](https://opentdb.com/) api.  
 Everything was coded from scratch.  
